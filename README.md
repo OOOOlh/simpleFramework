@@ -1,0 +1,3 @@
+# simpleFramework
+
+simpleFramework是一个仿照Spring框架实现的一个小项目。该项目基于自定义注解实现了IOC、AOP以及MVC的简单功能。
