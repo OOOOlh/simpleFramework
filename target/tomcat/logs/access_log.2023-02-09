@@ -1,3 +1,0 @@
-0:0:0:0:0:0:0:1 - - [09/Feb/2023:23:35:25 +0800] "GET /framework HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [09/Feb/2023:23:35:25 +0800] "GET /framework/ HTTP/1.1" 404 971 http-bio-8080-exec-3 11
-0:0:0:0:0:0:0:1 - - [09/Feb/2023:23:35:32 +0800] "GET /framework/hello HTTP/1.1" 200 148 http-bio-8080-exec-4 66
